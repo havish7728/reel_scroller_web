@@ -55,22 +55,4 @@ python app.py
 
 ---
 
-## Want to see it in action? 🎥
-
-Check out the demo video (link your video or GIF here) where I almost break the laws of physics by scrolling reels with a finger!
-
----
-
-## Contributions 🤝
-
-Pull Requests are welcome, but only if they come with jokes. 😎
-
----
-
-## License
-
-MIT License — because sharing is caring!
-
----
-
 Made with love, coffee, and a little help from AI 🤖💡*
